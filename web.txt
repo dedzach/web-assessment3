@@ -1,0 +1,8 @@
+A network is a group of computers that communicate between one another in  different ways. 
+The internet is what we call a group of networks. So in a sense it's like the earth while networks are the indiviual states, and countries. 
+When we connect to the internet, everyone is given a IP Address which is usually assigned to you by your ISP. This IP address helps find where computers are on a network and are
+how our computers communicate each other and servers(which have their own IP Address). Websites however, are usually indentified by their Hostnames or URLs because they're easier to
+remember than a bunch of numbers.
+Whenever you click on a link or URL through your browser, your computer is sending a GET request for data from a server. 
+Once the server receives your request, the server responds with the it's code allowing your browser to view the html page and anything else embeded in the code including forms,
+videos, images, and more. 
